@@ -2,8 +2,4 @@ team: Python
 
 manager: Lee
 
-<<<<<<< HEAD
-members: Juli
-=======
 members: Jack
->>>>>>> 2f94e77 (Edit python_team)
